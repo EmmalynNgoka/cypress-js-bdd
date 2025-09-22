@@ -1,0 +1,14 @@
+{
+  "name": "cypress-cucumber-bdd",
+  "version": "1.0.0",
+  "description": "Cypress + Cucumber BDD framework with Page Object Model",
+  "scripts": {
+    "test": "cypress run",
+    "test:headed": "cypress open"
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^23.1.0",
+    "@cypress/webpack-preprocessor": "^6.0.0",
+    "cypress": "^13.17.0"
+  }
+}
