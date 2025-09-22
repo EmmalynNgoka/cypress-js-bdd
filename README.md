@@ -17,7 +17,7 @@ cypress/
 •	Cypress with Cucumber BDD (Gherkin syntax)
 •	Page Object Model (POM) for maintainability
 •	Data-driven with Scenario Outline & Examples
-•	Configured baseURL (https://www.tesco.com/)
+•	Configured baseURL 
 •	Runs in headed (interactive) or headless (CI/CD) modes
 🚀 Getting Started
 1. Install dependencies
